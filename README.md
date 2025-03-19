@@ -1,8 +1,7 @@
 ## Bem vindo(a) ao meu perfil
 
 - 💻 Atualmente estou aprendendo desenvolmento web.
-
-- 🎓Estou tentando entrar na area da programação 
+- 🎓Estou tentando entrar na area da programação. 
 
 <div>
   <a href="https://beacons.ai/zesantos-ctrl">
