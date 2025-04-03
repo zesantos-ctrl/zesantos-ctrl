@@ -1,7 +1,7 @@
-## Programador WEB
+## Olá, seja bem vindo. Me chamo josé
 
 - 💻 Atualmente estou aprendendo desenvolmento web.
-- 🎓Estou tentando entrar na area da programação. 
+- 🎓
 
 <div>
   <a href="https://beacons.ai/zesantos-ctrl">
