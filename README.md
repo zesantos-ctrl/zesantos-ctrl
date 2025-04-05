@@ -1,7 +1,15 @@
 ## Olá, seja bem vindo. Me chamo josé
 
-- 💻 Atualmente estou aprendendo desenvolmento web.
-- 🎓
+## Olá! 👋
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, iniciante na área de programação web.
+
+Tenho interesse em criar jogos e estou aprendendo tecnologias como **HTML, CSS, JavaScript** e **Python**.
+
+Atualmente, faço curso no **IOS** e busco evoluir um pouco todos os dias. 🚀
+
+Aqui no GitHub você vai encontrar meus projetos e experimentos.  
+Fique à vontade para explorar!
 
 <div>
   <a href="https://beacons.ai/zesantos-ctrl">
@@ -17,6 +25,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  
   </div>
 
  
