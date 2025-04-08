@@ -1,4 +1,4 @@
-## Olá, seja bem vindo. Me chamo josé
+## Olá, seja bem vindo.
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, iniciante na área de programação web.
 
