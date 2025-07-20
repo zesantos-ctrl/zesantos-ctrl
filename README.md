@@ -25,9 +25,6 @@
 
 ###
 
-<div align="left">
- <a href="https://www.linkedin.com/in/jose-vitor-8b4a1531b/" target="_blank"></a> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
- <a href="https://www.instagram.com/123josevitor/" target="_blank"></a>
-</div>
+
 
 ###
