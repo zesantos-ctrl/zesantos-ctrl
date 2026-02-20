@@ -30,11 +30,10 @@ Fora da programação, você vai me encontrar assistindo animes, desenhando ou o
 
 ## 📊 Estatísticas
 
-<!-- Dica: evite "align=left" para não quebrar layout em telas menores -->
 <p>
   <img
     alt="Linguagens mais usadas"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zesantos-ctrl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zesantos-ctrl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_progress=false&cache_seconds=86400"
   />
-</p>
+</p>>
