@@ -25,14 +25,3 @@ Fora da programação, você vai me encontrar assistindo animes, desenhando ou o
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Logo Python" />
 </div>
-
----
-
-## 📊 Estatísticas
-
-<p>
-  <img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=zesantos-ctrl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-</p>
