@@ -23,16 +23,4 @@
 
 </div>
 
----
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zesantos-ctrl&show_icons=true&hide_border=true&title_color=115923&icon_color=115923&text_color=A8BFAA&bg_color=0d1117&count_private=true" />
-
-<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zesantos-ctrl&layout=compact&hide_border=true&title_color=115923&text_color=A8BFAA&bg_color=0d1117&count_private=true" />
-
-</div>
-
----
